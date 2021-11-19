@@ -11,4 +11,4 @@ if (char == char.upper() and char.isalpha() is True):
     print(char, "is an upper case letter.")
 
 if (char == char.lower() and char.isalpha() is True):
-    print(char, "is an lower case letter.")
+    print(char, "is a lower case letter.")
